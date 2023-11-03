@@ -69,5 +69,7 @@ public class MyService : DomainService
 }
 ```
 ## Changes history
+**Version 6.0.0**
+- Changed version to a system based on .NET Core version supported.  
 **Version 1.0.0**
 - Include interfaces and base classes for models and services.  
